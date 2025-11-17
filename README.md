@@ -26,3 +26,20 @@ This project was developed as a practice exercise to improve skills in gesture h
 ## 🎨 Design
 
 All characters, ingredients, UI components were fully hand-drawn by me.
+
+
+## 🚀 Installation and Running
+
+```
+# Install dependencies
+npm install
+
+# Start Expo development server
+npx expo start
+
+# Run on iOS simulator
+npx expo start --ios
+
+# Run on Android emulator
+npx expo start --android
+```
