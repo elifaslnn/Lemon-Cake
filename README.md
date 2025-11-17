@@ -5,6 +5,7 @@ A mini mobile game built with React Native featuring drag-and-drop mechanics
 
 This project was developed as a practice exercise to improve skills in gesture handling, animations, layout measurement, state management, and audio integration within the React Native ecosystem. The player drags and drops various ingredients into a bowl to prepare a lemon cake. The project focuses on combining gestures and animations, which are commonly used in mobile game development.
 
+![Screenshot](./assets/screenshots/screenshot.jpg)
 
 ## ⭐ Features
 
